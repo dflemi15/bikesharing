@@ -1,9 +1,11 @@
 # Bikesharing Challenge
 
-Overview
+# Overview
+
 The purpose of this analysis was to take a in depth look into the Citi Bike data for the month of August. Citi Bike is potentially a Des Moines, IA based bike rental business that rents bikes to consumers throughout the city. This bike trip analysis will help investors understand the core demographic of Citi Bike and why investing in this business will be a profitable endeavor. 
 
-Results
+# Results
+
 The analysis starts by identifying the highest volume of bikers in the month of August by hours in a normal day. The results are as follows:
 
 ![image](https://user-images.githubusercontent.com/107585908/190879374-1bf17a08-0afd-4d7c-91cd-2f5f94e915a6.png)
@@ -38,7 +40,7 @@ The final chart looks at the type of users that utilize the bike rental service 
 
 Subscribers appear to be the largest demographic of consumers for Male and Female consumers. Those in the Other category appear to be made up of general customers without a subscription. 
 
-Summary
+# Summary
 
 Male working bikers are the largest demographic of customers as indicted by the analysis. This is supported by not only the general number of renters recorded, but the times in which this demographic utilizes this service. Peak volume appears to be before and after normal work hours, so the target customer is assessed to be young working professionals. 
 
